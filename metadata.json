@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Creator",
+  "description": "AI-powered studio for creating, directing, and exporting HD and Full HD videos from text, photos, and scripts in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
